@@ -13,7 +13,7 @@
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=white)
 ![Vue](https://img.shields.io/badge/VUE-000?style=for-the-badge&logo=vue&logoColor=white)
-![JS](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=js&logoColor=white)
+![JS](https://img.shields.io/badge/JS-000?style=for-the-badge&logo=js&logoColor=white)
 
 ##
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Roberto0897&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)

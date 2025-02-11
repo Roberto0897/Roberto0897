@@ -14,5 +14,6 @@
 ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=white)
 ![Vue](https://img.shields.io/badge/VUE-000?style=for-the-badge&logo=vue&logoColor=white)
 ![JS](https://img.shields.io/badge/JS-000?style=for-the-badge&logo=js&logoColor=white)
-
+![Django](https://img.shields.io/badge/JS-000?style=for-the-badge&logo=js&logoColor=white)
+![Python](https://img.shields.io/badge/JS-000?style=for-the-badge&logo=js&logoColor=white)
 ##
